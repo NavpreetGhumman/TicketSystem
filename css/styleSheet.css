@@ -1,0 +1,83 @@
+.header {
+    background-color: #6c63ff;
+}
+.bg-light{
+    background-color: #6c63ff!important;
+}
+.navbar{
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+.site-logo{
+    font-size: clamp(1rem, 5vw, 2.5rem);
+    color: #ffffff;
+    line-height: .5rem;
+}
+.col-sm-8{
+    background-color: #6c63ff;
+    color: #ffffff;
+    border-radius: 7px;
+}
+.nav-link-logout{
+    color: #ffffff;
+    float: right;
+    padding-left: 700px;
+    font-size: 20px;
+}
+.nav-link-logout:hover{
+    color: #ffffff;
+}
+.ticket-heading{
+    padding-top: 20px;
+    font-size: clamp(1rem, 5vw, 2.5rem);
+    color: #6c63ff;
+    line-height: .5rem;
+    padding-bottom: 50px;
+}
+h2{
+    color:#6c63ff ;
+}
+.col-2{
+    padding-left: 0;
+}
+h3{
+    color:#6c63ff ;
+    text-align: center;
+    font-weight: bold;
+}
+.ticket-heading{
+
+
+}
+.form-error{
+    color: Red;
+}
+.form-container {
+
+}
+.table{
+    padding-top:50px;
+}
+.ticket-welcomeMsg{
+    color:#6c63ff ;
+}
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #ffffff; }
+.page-container{
+    position: relative;
+    max-width:1200px;
+    margin: 0 auto 0 auto;
+    padding: 0 50px;
+}
+.container {
+    box-shadow: 0 0 30px #888888;
+    border-radius: 5px;
+    overflow: hidden;
+    background: #ffffff;
+    padding: 15px;
+    margin: 100px 0 100px;
+}
+.col-md-6{
+    padding: 0;
+}

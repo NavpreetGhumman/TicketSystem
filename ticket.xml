@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tickets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ticket.xsd">
+
+    <ticket ticketId="0001">
+        <openDate>2021-01-01T09:15:00</openDate>      <!--  date Format yyyy-mm-ddThh:mm:ss.sss. -->
+        <ticketStatus>Resolved</ticketStatus>
+        <ticketCategory>Returns</ticketCategory>
+        <ticketSubject>Broken Crockery Return</ticketSubject>
+        <clientId>101</clientId>
+        <ticketMessage>
+            <description userId="101" date="2021-01-01" time="09:30:00">Hello, few days ago I ordered crockery, yesterday I got it and some pieces were broken that was disappointed. I would like to return that crockery. Can you suggest me how I can return this?</description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="103" date="2021-01-01" time="09:40:00"> Please visit our website www.supergrocery.ca and open your account and there you will get step by step guidance to return an item. </description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="101" date="2021-01-01" time="09:50:00">Thank you for your help. </description>
+        </ticketMessage>
+    <ticketMessage><description userId="104" date="2021-04-06" time="04:05:01">Our Pleasure</description></ticketMessage><ticketMessage><description userId="103" date="2021-04-06" time="04:22:36">Are you okay</description></ticketMessage><ticketMessage><description userId="103" date="2021-04-21" time="01:44:30">have a good day</description></ticketMessage><ticketMessage><description userId="101" date="2021-04-26" time="02:37:33">sry</description></ticketMessage><ticketMessage><description userId="101" date="2021-04-26" time="02:38:06">for what</description></ticketMessage><ticketMessage><description userId="101" date="2021-04-26" time="02:38:14">sry</description></ticketMessage><ticketMessage><description userId="101" date="2021-04-26" time="02:42:40">hey</description></ticketMessage></ticket>
+
+    <ticket ticketId="0002">
+        <openDate>2021-01-03T11:20:00</openDate>
+        <ticketStatus>In-Progress</ticketStatus>
+        <ticketCategory>General</ticketCategory>
+        <ticketSubject>Washing Machine</ticketSubject>
+        <clientId>102</clientId>
+        <ticketMessage>
+            <description userId="102" date="2021-01-03" time="11:30:00"> Hello, I would like to buy new washing machine and I was checking online there is only black color available. Is there any other color available in your store.</description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="104" date="2021-01-03" time="11:40:00"> Yes, grey color machines just arrived today in store. </description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="102" date="2021-01-03" time="11:50:00">Sounds good. What time you guys open your store?</description>
+        </ticketMessage>
+    </ticket>
+
+
+    <ticket ticketId="0003">
+        <openDate>2021-01-03T11:20:00</openDate>
+        <ticketStatus>In-Progress</ticketStatus>
+        <ticketCategory>General</ticketCategory>
+        <ticketSubject>Dress return</ticketSubject>
+        <clientId>101</clientId>
+        <ticketMessage>
+            <description userId="102" date="2021-01-03" time="11:30:00"> Hey, is black color dress available in your store.</description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="104" date="2021-01-03" time="11:40:00"> No, Its not </description>
+        </ticketMessage>
+   </ticket>
+
+    <ticket ticketId="0004">
+        <openDate>2021-01-03T11:20:00</openDate>
+        <ticketStatus>In-Progress</ticketStatus>
+        <ticketCategory>General</ticketCategory>
+        <ticketSubject>Account Locked</ticketSubject>
+        <clientId>102</clientId>
+        <ticketMessage>
+            <description userId="102" date="2021-01-03" time="11:30:00"> Hey James, My account got locked. can you help me to reopen it?</description>
+        </ticketMessage>
+        <ticketMessage>
+            <description userId="104" date="2021-01-03" time="11:40:00"> Sure</description>
+        </ticketMessage>
+    <ticketMessage><description userId="102" date="2021-04-26" time="02:48:28">I didn't open yet</description></ticketMessage><ticketMessage><description userId="104" date="2021-04-26" time="02:49:27">I will look again</description></ticketMessage></ticket>
+<ticket ticketId="0005"><openDate>2021-04-06T10:49:14</openDate><ticketStatus>Open</ticketStatus><ticketCategory>Shipping</ticketCategory><ticketSubject>Parcel not arrived</ticketSubject><clientId>105</clientId><ticketMessage><description userId="105" date="2021-04-06" time="10:49:14">Hello I order clothes last week but its not arrived yet</description></ticketMessage></ticket><ticket ticketId="0006"><openDate>2021-04-21T01:46:02</openDate><ticketStatus>Open</ticketStatus><ticketCategory>Shipping</ticketCategory><ticketSubject>Parcel not arrived</ticketSubject><clientId>101</clientId><ticketMessage><description userId="101" date="2021-04-21" time="01:46:02">hello</description></ticketMessage><ticketMessage><description userId="103" date="2021-04-26" time="02:44:31">hey</description></ticketMessage><ticketMessage><description userId="103" date="2021-04-26" time="02:52:05">How May i help you</description></ticketMessage></ticket><ticket ticketId="0007"><openDate>2021-04-26T02:50:26</openDate><ticketStatus>Open</ticketStatus><ticketCategory>Return</ticketCategory><ticketSubject>Money Refund</ticketSubject><clientId>102</clientId><ticketMessage><description userId="102" date="2021-04-26" time="02:50:26">Hey ,&#13;
+I returned watch but didn't get refunf</description></ticketMessage></ticket></tickets>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd">
+    <user userId="101" userType="client">
+        <userName>Navpreet</userName>
+        <password>074bf6c201c3d8ccb578d6a046c4544d</password>
+        <name title="Mrs.">
+            <firstName>Navpreet</firstName>
+            <lastName>Ghumman</lastName>
+        </name>
+        <email>navpreetghumman@gmail.com</email>
+        <phoneNumber>(437) 345-5678</phoneNumber>
+    </user>
+    
+    <user userId="102" userType="client">
+        <userName>John</userName>
+        <password>7f27e3bcc6c33d8b69989533567327a7</password>
+        <name title="Mr.">
+            <firstName>John</firstName>
+            <middleName>William</middleName>
+            <lastName>Noah</lastName>
+        </name>
+        <email>johnnoah@gmail.com</email>
+    </user>
+    
+    <user userId="103" userType="support staff">
+        <userName>Drishti</userName>
+        <password>ae5e5ec371327b499cf82e4ba8a33772</password>
+        <name title="Miss">
+            <firstName>Drishti</firstName>
+            <lastName>Seth</lastName>
+        </name>
+        <email>drishtiseth@gmail.com</email>
+    </user>
+    
+    <user userId="104" userType="support staff">
+        <userName>James</userName>
+        <password>f2bb1ec492cb1d8963498174d133b8cf</password>
+        <name title="Sir">
+            <firstName>James</firstName>
+            <lastName>Ebby</lastName>
+        </name>
+        <email>ebbyjames@gmail.com</email>
+    </user>
+
+    <user userId="105" userType="client">
+        <userName>Joban</userName>
+        <password>ded7a321212ff862e7d7d88b21327c4c</password>
+        <name title="Sir">
+            <firstName>Joban</firstName>
+            <lastName>Ghuman</lastName>
+        </name>
+        <email>jobanghuman@gmail.com</email>
+    </user>
+</users>
+
+
+
+
+
+
+
+
+
