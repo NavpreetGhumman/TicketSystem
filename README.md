@@ -4,4 +4,5 @@ Service Now is a Ticket System project that provides support and help to the cus
 ### Languages
 Built with PHP, XML, HTML, CSS and bootstrap
 
-Screen Shot 2021-05-18 at 5.38.47 PM
+<img width="1431" alt="Screen Shot 2021-05-18 at 5 38 47 PM" src="https://user-images.githubusercontent.com/71792075/119274782-9c574c00-bbdf-11eb-91b2-7b717ad10eb2.png">
+
